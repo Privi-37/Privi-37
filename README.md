@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋, I'm Pruthvi
 
-<!--
-**Privi-37/Privi-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Software Developer | AI Enthusiast | Building Mirror
 
-Here are some ideas to get you started:
+I enjoy building products that solve real-world problems through software and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently expanding my skills in **Full Stack Development**, **Backend Engineering**, and **AI Applications** while building projects that turn ideas into reality.
+
+---
+
+## 💻 Skills
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Responsive UI Design
+
+### Currently Learning
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+### Exploring
+- Artificial Intelligence
+- Machine Learning
+- System Design
+
+---
+
+## 🚀 Featured Projects
+
+- 🧠 Mirror (AI Personal Memory System)
+- 🎌 Anime Streaming Homepage
+- 🏥 Medical Clinic Website
+- 🏝️ Luxury Resort Website
+
+---
+
+## 🎯 Mission
+
+To become an AI-focused Full Stack Software Engineer who builds meaningful products used by millions.
+
+> "Turning ideas into products."
