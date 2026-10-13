@@ -11,8 +11,9 @@ Currently expanding my skills in **Full Stack Development**, **Backend Engineeri
 ## 💻 Skills
 
 ### Frontend
-- node.js
-- REACT.js
+- Svelte & SolidJS
+- Next.js
+- REACT
 - JavaScript
 - Responsive UI Design
 
