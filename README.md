@@ -11,12 +11,12 @@ Currently expanding my skills in **Full Stack Development**, **Backend Engineeri
 ## 💻 Skills
 
 ### Frontend
-- HTML5
-- CSS3
+- node.js
+- REACT.js
 - JavaScript
 - Responsive UI Design
 
-### Currently Learning
+### Currently working with
 - Node.js
 - Express.js
 - MongoDB
@@ -26,15 +26,17 @@ Currently expanding my skills in **Full Stack Development**, **Backend Engineeri
 - Artificial Intelligence
 - Machine Learning
 - System Design
+- neural networks
+- deep learning
+- agentic AI 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🧠 Mirror (AI Personal Memory System)
-- 🎌 Anime Streaming Homepage
-- 🏥 Medical Clinic Website
-- 🏝️ Luxury Resort Website
+- MIRROR-ONE ( decison support with evolving human model )
+- TRACE ( IVESTIGATION APK)
+- PRIVI ( personal intelligence )
 
 ---
 
